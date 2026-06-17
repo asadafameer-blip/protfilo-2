@@ -1,0 +1,6 @@
+{
+  "name": "Sadaf Ameer Portfolio",
+  "description": "A premium, cyber-neon themed interactive personal portfolio featuring professional developer projects, glassmorphism cards, social integration, typing animation, client feedback, and an interactive frontend chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

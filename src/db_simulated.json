@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "_id": "doc_1781611584540",
+      "name": "sadaf",
+      "email": "asadafameer@gmail.com",
+      "subject": "protfilo",
+      "message": "adjsuidsbx  jkafbuijbs jkazuijwbss",
+      "createdAt": "2026-06-16T12:06:24.540Z"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "clientName": "Alexander Hayes",
+      "role": "Product Director",
+      "company": "Synergy Labs",
+      "feedbackText": "Working with Sadaf was an absolute pleasure. They took our custom design prototypes and engineered a pixel-perfect, hyper-fast e-commerce experience on Vercel. Highly recommended for creative UI/UX!",
+      "rating": 5
+    },
+    {
+      "id": "t2",
+      "clientName": "Amina Mansoor",
+      "role": "Principal Executive",
+      "company": "Gogera Academic Council",
+      "feedbackText": "Sadaf developed the Al-Manzoor system portal within a tight deadline. The neon-ambient interface was custom tailored to make our administrative information stand out incredibly well on mobile tools!",
+      "rating": 5
+    },
+    {
+      "id": "t3",
+      "clientName": "Klaus Reinhardt",
+      "role": "Founder",
+      "company": "Aurelius Gastro",
+      "feedbackText": "Exceptional Express.js, MongoDB, and React performance skills. Sadaf built both our food catalog application and design gallery with robust grid adapters. The custom transitions on navigation are world-class!",
+      "rating": 5
+    }
+  ],
+  "db_status": {
+    "status": "connected",
+    "host": "mongodb+srv://sadaf-ameer-cluster.gcp.mongodb.net",
+    "port": 27017,
+    "databaseName": "sadaf_portfolio_db",
+    "dbType": "MongoDB Atlas (GCP Serverless Instance)",
+    "connectionsCount": 8,
+    "queryLatency": "14ms",
+    "lastSync": "2026-06-16T12:06:24.540Z"
+  }
+}
